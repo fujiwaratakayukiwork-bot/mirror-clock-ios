@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Xcode build products
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Xcode user-specific state
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+
+# Swift playgrounds
+timeline.xctimeline
+playground.xcworkspace
